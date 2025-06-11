@@ -1,4 +1,4 @@
-To run the devserver:
+To run
 ```
 npm install
 npm run dev
